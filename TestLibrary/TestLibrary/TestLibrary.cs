@@ -13,7 +13,7 @@ namespace TestLibrary
         {
             var button = new Button
             {
-                Text = "Click Me Now!",
+                Text = "Click Me!",
                 VerticalOptions = LayoutOptions.CenterAndExpand,
                 HorizontalOptions = LayoutOptions.CenterAndExpand,
             };
